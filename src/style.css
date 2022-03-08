@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+.title {
+    color: red;
+    margin-left: 650px;
+    }
+.img1{
+width: 300px;
+    height: 300px;
+padding-bottom: 10px;
+padding-top: 10px;
+margin-left: 600px;
+    }
+
+.img2{
+width: 300px;
+height: 300px;
+margin-left: 600px;
+
+    }
+
+.vid{
+  margin-left: 600px;
+}
